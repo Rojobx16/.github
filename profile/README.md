@@ -1,4 +1,4 @@
-# Cake16
+# Cake16 🍰
 
 Cake16 is a software organization focused on building modern web applications, developer tools, and open-source software.
 
