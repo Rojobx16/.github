@@ -2,12 +2,12 @@
 
 Cake16 is a software organization focused on building modern web applications, developer tools, and open-source software.
 
-We are currently preparing a collection of projects that will be released as open source from our website in the future. Our goal is to create clean, well-documented, and easy-to-use software for developers and the community.
+We are currently preparing a collection of projects that will be released as open source through our website and GitHub organization. Our goal is to create clean, well-documented, and easy-to-use software for developers and the community.
 
 ## Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,ts,postgres,redis,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=csharp,dotnet,react,html,css,js,ts,postgres,redis,docker,git,github,vscode" />
 </p>
 
 ## Open Source
