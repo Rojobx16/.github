@@ -1,29 +1,31 @@
-# Cake16 🍰
+# Opliux
 
-Cake16 is a software organization focused on building modern web applications, developer tools, and open-source software.
+**Reviving the classic 2016 Roblox experience.**
 
-We are currently preparing a collection of projects that will be released as open source through our website and GitHub organization. Our goal is to create clean, well-documented, and easy-to-use software for developers and the community.
+A nostalgic revival project focused on bringing back the original Opliux experience using modern technologies.
 
-## Technologies
+### Technologies
 
-<p>
-  <img src="https://skillicons.dev/icons?i=csharp,dotnet,react,html,css,js,ts,postgres,redis,docker,git,github,vscode" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg" width="48" height="48" alt=".NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
 </p>
 
-## Open Source
+### About
 
-Open-source projects will be published soon through our website and GitHub organization. Each project will include documentation, installation guides, and source code.
+Opliux is dedicated to recreating the classic 2016 experience while preserving its original style and functionality.
 
-## Principles
+**Frontend:** TypeScript  
+**Backend:** ASP.NET / C#  
+**Status:** In Development
 
-* Clean and maintainable code
-* Modern development practices
-* Well-documented projects
-* Open collaboration
-* Long-term support where applicable
+### Mission
+
+Bringing 2016 back.
 
 ---
 
-<p align="center">
-© Cake16
-</p>
+**Opliux 2016 Revival** - it archive doe.
